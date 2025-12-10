@@ -543,7 +543,6 @@ textarea.form-control {
 
 .social-icons {
     display: flex;
-    gap: 15px;
     flex-wrap: wrap;
 }
 
@@ -555,10 +554,10 @@ textarea.form-control {
     height: 45px;
     background-color: #f8f9fa;
     border-radius: 50%;
-    font-size: 22px;
     text-decoration: none;
     transition: all 0.3s ease;
     border: 2px solid #e9ecef;
+    margin-right: 10px;
 }
 
 .social-icon:hover {
